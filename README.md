@@ -1,6 +1,5 @@
 # Notas
-Mi segundo repositorio con VSCode para GitHub
-02-Bases
+Esta versión es la última desarrollada para test
 
 ## Desde VSCode
 Esto fue añadido desde VSCode
